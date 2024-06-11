@@ -2,6 +2,11 @@
 
 This is my personal github profile. 
 
+I like to leverage technology & collaborate to facilitate & develop useful, convenient & exciting software tools & platforms.
+
+
+
+[![ssh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarramshivram)](https://github.com/shankarramshivram/github-readme-stats)
 <!--
 **shankarramshivram/shankarramshivram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
